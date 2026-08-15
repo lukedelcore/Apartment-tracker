@@ -1,1 +1,3 @@
-undefined
+# Apartment Listings Tracker
+
+A single-file, static tracker for an active NYC apartment search — true 3-bedroom/2-bathroom rentals under $10,000/month across target Manhattan and Brooklyn neighborhoods, for a September or October 2026 move-in. Sortable/filterable listings table with per-listing favorite, contacted, and viewed tracking saved locally in the browser (no backend, no sync across devices). Data is refreshed by a companion daily automation (StreetEasy watcher) that emails new qualifying listings; this page is where they get triaged. Companion project to [lukedelcore/Automations](https://lukedelcore.github.io/Automations/).
